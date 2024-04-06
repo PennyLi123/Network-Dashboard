@@ -1,18 +1,18 @@
 # Network-Dashboard
 
-# Project Overview
+## Project Overview
 
 Created 1 network diagram dashboard using Power BI to visualise the interconnections of actors/characters of the movie, Love Actually,by number of shared scenes.
 
 Explored relational datasets and are often used to visualize such things as project interdependencies, and social networks. 
 
-# Tech stacks used in the project
+## Tech stacks used in the project
 1. Power BI
 2. Power Query
 3. Network diagram
 
 
-# Tech skills
+## Tech skills
 * Performing data cleaning and Extract, Load, and Transform (ELT) operations using Power Query Editor.
 * Creating the network diagram by selecting the fields for the actor pairs and number of shared scenes. 
 * Designing dynamic visuals and dynamic titles with various filters based on requirements.
