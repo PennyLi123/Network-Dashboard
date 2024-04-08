@@ -1,4 +1,4 @@
-# Network-Dashboard
+# Network-Power BI Dashboard
 
 ## Project Overview
 
